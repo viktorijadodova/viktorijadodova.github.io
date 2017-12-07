@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89eda60e-3086-4e20-abf0-4f23677c22d3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/51128d45925e547012857f86a4682e009bac2e95/_section1.scssc" afterPath="$PROJECT_DIR$/.sass-cache/51128d45925e547012857f86a4682e009bac2e95/_section1.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/components/_section1.scss" afterPath="$PROJECT_DIR$/assets/sass/components/_section1.scss" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -203,12 +201,12 @@
       <workItem from="1512237696502" duration="2198000" />
       <workItem from="1512241980257" duration="25229000" />
       <workItem from="1512407615444" duration="12943000" />
-      <workItem from="1512666225264" duration="2077000" />
+      <workItem from="1512666225264" duration="2497000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42447000" />
+    <option name="totallyTimeSpent" value="42867000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />

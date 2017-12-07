@@ -58,7 +58,7 @@ category: Basics
 */
 .profilepicture {
   height: 650px;
-  padding-top: 50px;
+  padding-top: 20px;
   padding-left: 240px; }
 
 .profilepicture:hover {
