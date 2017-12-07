@@ -1,0 +1,9 @@
+.profilepicture {
+  height: 600px;
+  padding-top: 20px;
+  padding-left: 240px;
+  }
+.profilepicture:hover {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}

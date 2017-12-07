@@ -1,0 +1,158 @@
+/*doc
+---
+title: Colors
+name: colors
+category: Basics
+---
+<div class="cf">
+	<div class="doc-color-brand">
+		<div class="doc-color-lighter"></div>
+		<div class="doc-color-darker"></div>
+	</div>
+	<div class="doc-color-base">
+		<div class="doc-color-lighter"></div>
+		<div class="doc-color-darker"></div>
+	</div>
+	<div class="doc-color-primary">
+		<div class="doc-color-lighter"></div>
+		<div class="doc-color-darker"></div>
+	</div>
+	<div class="doc-color-secondary">
+		<div class="doc-color-lighter"></div>
+		<div class="doc-color-darker"></div>
+	</div>
+	<div class="doc-color-text">
+		<div class="doc-color-lighter"></div>
+		<div class="doc-color-darker"></div>
+	</div>
+	<div class="doc-color-link">
+		<div class="doc-color-lighter"></div>
+		<div class="doc-color-darker"></div>
+	</div>
+	<div class="doc-color-positive">
+		<div class="doc-color-lighter"></div>
+		<div class="doc-color-darker"></div>
+	</div>
+	<div class="doc-color-negative">
+		<div class="doc-color-lighter"></div>
+		<div class="doc-color-darker"></div>
+	</div>
+	<div class="doc-color-neutral">
+		<div class="doc-color-lighter"></div>
+		<div class="doc-color-darker"></div>
+	</div>
+	<div class="doc-color-warning">
+		<div class="doc-color-lighter"></div>
+		<div class="doc-color-darker"></div>
+	</div>
+	<div class="doc-color-info">
+		<div class="doc-color-lighter"></div>
+		<div class="doc-color-darker"></div>
+	</div>
+	<div class="doc-color-special">
+		<div class="doc-color-lighter"></div>
+		<div class="doc-color-darker"></div>
+	</div>
+</div>
+
+*/
+.profilepicture {
+  height: 600px;
+  padding-top: 20px;
+  padding-left: 240px; }
+
+.profilepicture:hover {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1); }
+
+.eye {
+  height: 600px;
+  float: right;
+  border-radius: 5%; }
+
+.education {
+  font-family: Impact;
+  color: black;
+  padding-top: 50px;
+  margin-bottom: 60px;
+  font-size: 50px;
+  text-align: right; }
+
+.space {
+  padding-bottom: 100px; }
+
+.explanation {
+  font-family: Impact;
+  color: black;
+  font-size: 30px;
+  text-align: right; }
+
+.skills {
+  font-family: Impact;
+  color: black;
+  padding-top: 10px;
+  margin-bottom: 60px;
+  font-size: 50px;
+  text-align: left; }
+
+.list {
+  font-family: Impact;
+  color: black;
+  font-size: 30px;
+  text-align: left; }
+
+.cardtext {
+  font-family: Impact;
+  color: black;
+  font-size: 15px;
+  text-align: left; }
+
+.cardtitle {
+  font-family: Impact;
+  color: black;
+  font-size: 25px;
+  text-align: center; }
+
+.work {
+  font-family: Impact;
+  color: black;
+  font-size: 50px; }
+
+.contactme {
+  font-family: Impact;
+  color: black;
+  padding-top: 10px;
+  margin-bottom: 60px;
+  font-size: 50px; }
+
+.icon {
+  font-size: 50px;
+  margin: 30px; }
+
+/**
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    contenteditable attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that are clearfixed.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+.cf:before,
+.cf:after {
+  content: " ";
+  /* 1 */
+  display: table;
+  /* 2 */ }
+
+.cf:after {
+  clear: both; }
+
+/**
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+.cf {
+  *zoom: 1; }
+
+/*# sourceMappingURL=style.css.map */
