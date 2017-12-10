@@ -65,10 +65,21 @@ category: Basics
   -webkit-transform: scaleX(-1);
   transform: scaleX(-1); }
 
+.carousel {
+  height: 600px; }
+
+.carousel-item {
+  height: 650px;
+  width: auto;
+  object-fit: contain; }
+
 .eye {
   height: 600px;
   float: right;
   border-radius: 5%; }
+
+body {
+  background-color: lightgray; }
 
 .education {
   font-family: Impact;
