@@ -78,79 +78,6 @@ category: Basics
   float: right;
   border-radius: 5%; }
 
-body {
-  background-color: gray; }
-
-@media (min-width: 576px) {
-  .body {
-    padding: 0%;
-    margin: 0%;
-    align-content: center; }
-
-  .profilepicture {
-    height: auto;
-    padding-top: 20px;
-    padding-left: 20px;
-    align-content: center; }
-
-  .education {
-    font-family: Impact;
-    color: black;
-    padding-top: 50px;
-    margin-bottom: 30px;
-    font-size: 25px;
-    text-align: center; }
-
-  .space {
-    padding-bottom: 60px; }
-
-  .explanation {
-    font-family: Impact;
-    color: black;
-    font-size: 20px;
-    text-align: center; }
-
-  .skills {
-    font-family: Impact;
-    color: black;
-    padding-top: 10px;
-    margin-bottom: 40px;
-    font-size: 25px;
-    text-align: center; }
-
-  .list {
-    font-family: Impact;
-    color: black;
-    font-size: 20px;
-    text-align: center; }
-
-  .cardtext {
-    font-family: Impact;
-    color: black;
-    font-size: 15px;
-    text-align: left; }
-
-  .cardtitle {
-    font-family: Impact;
-    color: black;
-    font-size: 25px;
-    text-align: center; }
-
-  .work {
-    font-family: Impact;
-    color: black;
-    font-size: 25px; }
-
-  .contactme {
-    font-family: Impact;
-    color: black;
-    padding-top: 10px;
-    margin-bottom: 40px;
-    font-size: 25px; }
-
-  .icon {
-    font-size: 40px;
-    margin: 20px; } }
 .education {
   font-family: Impact;
   color: black;
@@ -209,6 +136,11 @@ body {
 .icon {
   font-size: 50px;
   margin: 30px; }
+
+.email {
+  font-family: Impact;
+  color: black;
+  font-size: 30px; }
 
 /**
  * For modern browsers
