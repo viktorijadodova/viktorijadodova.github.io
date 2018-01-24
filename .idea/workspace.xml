@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89eda60e-3086-4e20-abf0-4f23677c22d3" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/image/freelance.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/image/goldengate.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/image/pelisterka.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/image/polyesterday.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/51128d45925e547012857f86a4682e009bac2e95/_imports.scssc" afterPath="$PROJECT_DIR$/.sass-cache/51128d45925e547012857f86a4682e009bac2e95/_imports.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/51128d45925e547012857f86a4682e009bac2e95/_section1.scssc" afterPath="$PROJECT_DIR$/.sass-cache/51128d45925e547012857f86a4682e009bac2e95/_section1.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/51128d45925e547012857f86a4682e009bac2e95/_section2.scssc" afterPath="$PROJECT_DIR$/.sass-cache/51128d45925e547012857f86a4682e009bac2e95/_section2.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/51128d45925e547012857f86a4682e009bac2e95/_typography.scssc" afterPath="$PROJECT_DIR$/.sass-cache/51128d45925e547012857f86a4682e009bac2e95/_typography.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/style.css.map" afterPath="$PROJECT_DIR$/assets/css/style.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/components/_imports.scss" afterPath="$PROJECT_DIR$/assets/sass/components/_imports.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/components/_section1.scss" afterPath="$PROJECT_DIR$/assets/sass/components/_section1.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/components/_section2.scss" afterPath="$PROJECT_DIR$/assets/sass/components/_section2.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/components/_typography.scss" afterPath="$PROJECT_DIR$/assets/sass/components/_typography.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="89eda60e-3086-4e20-abf0-4f23677c22d3" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -116,7 +99,7 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="732" />
@@ -215,16 +198,15 @@
       <workItem from="1513023592266" duration="37000" />
       <workItem from="1516644181604" duration="8925000" />
       <workItem from="1516725021070" duration="8560000" />
-      <workItem from="1516815066601" duration="5640000" />
+      <workItem from="1516815066601" duration="5999000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79157000" />
+    <option name="totallyTimeSpent" value="79516000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1500732" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
