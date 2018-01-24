@@ -1,22 +1,45 @@
+.image-container {
+  overflow: hidden;
+}
+
+.image-container img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 3rem;
+}
 .profilepicture {
-  height: 650px;
-  padding-top: 20px;
-  padding-left: 240px;
+  transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  -o-transform-style: preserve-3d;
+  -ms-transform-style: preserve-3d;
+  -webkit-transform-style: preserve-3d;
+  transition: 0.4s;
+  -webkit-transition: 0.4s;
+  -moz-transition: 0.4s;
+  -o-transition: 0.4s;
   }
 .profilepicture:hover {
-  -webkit-transform: scaleX(-1);
-  transform: scaleX(-1);
+  transform: rotatey(-180deg);
+  -webkit-transform: rotatey(-180deg);
+  -moz-transform: rotatey(-180deg);
+  -ms-transform: rotatey(-180deg);
+  -o-transform: rotatey(-180deg);
 }
-.carousel {
-  height: 650px;
+#diamond {
+  border-radius: 0.8rem;
+  opacity: 0.9;
 }
-.carousel-item {
-  height: 650px;
-  width: auto;
-  object-fit: contain;
-}
-.eye {
-  height: 600px;
-  float: right;
-  border-radius: 5%;
+.explanation {
+  h1 {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 2rem;
+    margin-top: 3.5rem;
+    background-color: rgba(220,20,60, 0.6);
+    border-radius: 0.5rem;
+  }
+  p {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 1.3rem;
+  }
 }
