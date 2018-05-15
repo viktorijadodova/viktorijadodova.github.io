@@ -85,7 +85,8 @@ category: Basics
 
 #diamond {
   border-radius: 0.8rem;
-  opacity: 0.9; }
+  opacity: 0.9;
+  vertical-align: middle; }
 
 .explanation h1 {
   font-family: 'Fjalla One', sans-serif;
@@ -139,7 +140,7 @@ html {
 .card {
   max-width: 100%;
   height: auto;
-  margin-bottom: 3rem;
+  margin-bottom: 0.5rem;
   vertical-align: middle; }
 
 .card-title {
@@ -152,14 +153,6 @@ html {
 
 .card-block {
   background-color: rgba(0, 0, 0, 0.1); }
-
-.carousel-item {
-  object-fit: contain;
-  max-height: 32rem;
-  width: auto; }
-  .carousel-item img {
-    max-height: 100%;
-    width: auto; }
 
 .email {
   font-family: 'Fjalla One', sans-serif;
@@ -190,6 +183,12 @@ html {
   -moz-transform: scale(1.5);
   transition: all 200ms ease-in;
   transform: scale(1.5); }
+
+.space {
+  margin-top: 40px; }
+
+.batn {
+  margin-bottom: 1.5rem; }
 
 /**
  * For modern browsers
